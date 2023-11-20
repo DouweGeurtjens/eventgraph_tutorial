@@ -1,4 +1,4 @@
-﻿EventID,Action,Time,Actor,Order,Supplier Order,Order Details,Item,Invoice,Payment,Tray
+﻿EventID,event,time,Actor,Order,Supplier Order,Order Details,Item,Invoice,Payment,Tray
 e1,Create Order,01.05.2021 09:05:00,R1,O1,,"X,X,Y",,,,
 e2,Create Order,01.05.2021 09:30:00,R1,O2,,"X,Y",,,,
 e3,Place SO,01.05.2021 11:25:00,R1,,A,"X,X,X",,,,

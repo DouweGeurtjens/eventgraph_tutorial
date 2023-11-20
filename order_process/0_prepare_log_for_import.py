@@ -7,10 +7,10 @@ import time, os, csv
 #config
 
 inputpath = './input_logs/'
-inputfile = 'order_process_event_table_orderhandling.csv'
+inputfile = 'order_process_event_table_full.csv'
 outputpath = './prepared_logs/'
 
-outputfile = 'order_process_event_table_orderhandling_prepared.csv'
+outputfile = 'order_process_event_table_full_prepared.csv'
 
 
 def LoadLog(localFile):
